@@ -14,7 +14,7 @@ The source codes are divided into `courses` and `chapters` as folders and chapte
 You can simply clone the project to your local storage with following command:
 
 ```
-git clone https://github.com/loomnetwork/cryptozombies-lesson-code.git
+git clone https://github.com/0xshariq/crypto-zombies-solidity.git
 ```
 
 Or fork it to modify the sample codes for your own study.
